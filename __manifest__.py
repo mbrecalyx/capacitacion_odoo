@@ -24,9 +24,11 @@
     # ],
     ### XML Demo files
     # only loaded in demo mode
-    # "demo": [
-    #     "demo/demo.xml",
-    # ],
+    "demo": [
+        "demo/ships.xml",
+        "demo/books.xml",
+        "demo/tasks.xml",
+    ],
     ### Assets
     # In 15.0, Odoo adds a new way to add js/css assets files to a module.
     # https://www.holdenrehg.com/blog/2021-10-08_odoo-manifest-asset-bundles

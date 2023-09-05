@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+    <record id="book_1" model="capacitacion_odoo.book">
+        <field name="name">The Great Gatsby</field>
+        <field name="active">True</field>
+        <field name="isbn">9780743273565</field>
+        <!-- Add other fields here -->
+    </record>
+    <record id="book_2" model="capacitacion_odoo.book">
+        <field name="name">The Great Gatsby2</field>
+        <field name="active">True</field>
+        <field name="isbn">9780743277865</field>
+        <!-- Add other fields here -->
+    </record>
+    <record id="book_3" model="capacitacion_odoo.book">
+        <field name="name">The Great Gatsby3</field>
+        <field name="active">True</field>
+        <field name="isbn">9780743273965</field>
+        <!-- Add other fields here -->
+    </record>
+    <!-- Add more book records here -->
+</odoo>

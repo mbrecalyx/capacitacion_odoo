@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+    <record id="task_1" model="capacitacion_odoo.task">
+        <field name="name">Clean the Deck</field>
+        <field name="start_time">2023-09-05 09:00:00</field>
+        <field name="stop_time">2023-09-05 10:00:00</field>
+        <!-- Add other fields here -->
+    </record>
+    <record id="task_1" model="capacitacion_odoo.task">
+        <field name="name">Clean the Deck2</field>
+        <field name="start_time">2023-09-05 09:00:00</field>
+        <field name="stop_time">2023-09-05 10:00:00</field>
+        <!-- Add other fields here -->
+    </record>
+    <record id="task_1" model="capacitacion_odoo.task">
+        <field name="name">Clean the Deck3</field>
+        <field name="start_time">2023-09-05 09:00:00</field>
+        <field name="stop_time">2023-09-05 10:00:00</field>
+        <!-- Add other fields here -->
+    </record>
+    <!-- Add more task records here -->
+</odoo>

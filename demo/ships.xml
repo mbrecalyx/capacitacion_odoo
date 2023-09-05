@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+    <record id="spaceship_1" model="capacitacion_odoo.spaceship">
+        <field name="name">Apollo</field>
+        <field name="active">True</field>
+        <field name="type">exploracion</field>
+        <field name="modelo">Apollo-11</field>
+        <!-- Add other fields here -->
+    </record>
+    <record id="spaceship_2" model="capacitacion_odoo.spaceship">
+        <field name="name">Galaxy</field>
+        <field name="active">True</field>
+        <field name="type">batalla</field>
+        <field name="modelo">Enterprise</field>
+        <!-- Add other fields here -->
+    </record>
+    <record id="spaceship_1" model="capacitacion_odoo.spaceship">
+        <field name="name">Titanic</field>
+        <field name="active">True</field>
+        <field name="type">carga</field>
+        <field name="modelo">K</field>
+        <!-- Add other fields here -->
+    </record>
+    <!-- Add more spaceship records here -->
+</odoo>
